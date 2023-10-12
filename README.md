@@ -1,5 +1,5 @@
 # Rhythm_Realm_Music_Webapp
-Welcome to my personal, full-stack software engineering project!
+Welcome to my personal, full-stack project!
 
 Rhythm Realm is a Music playing webapp that stores your songs, playlists, and preferences.
 
